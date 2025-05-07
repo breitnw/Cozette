@@ -120,11 +120,11 @@ DisplaySize: 13
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 307
-WinInfo: 119880 24 14
+WinInfo: 8640 24 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 524288 262144 174762 0 -1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114112 5278
+BeginChars: 1114112 5293
 
 StartChar: uni0000
 Encoding: 0 0 0
@@ -44820,8 +44820,113 @@ Width: 1024
 Flags: HW
 LayerCount: 2
 EndChar
+
+StartChar: uni219D
+Encoding: 8605 8605 5278
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni219C
+Encoding: 8604 8604 5279
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni226A
+Encoding: 8810 8810 5280
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni226B
+Encoding: 8811 8811 5281
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2263
+Encoding: 8803 8803 5282
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni227C
+Encoding: 8828 8828 5283
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni227D
+Encoding: 8829 8829 5284
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni227A
+Encoding: 8826 8826 5285
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni227B
+Encoding: 8827 8827 5286
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2238
+Encoding: 8760 8760 5287
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni228C
+Encoding: 8844 8844 5288
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni228D
+Encoding: 8845 8845 5289
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni228E
+Encoding: 8846 8846 5290
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: similar
+Encoding: 8764 8764 5291
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni223D
+Encoding: 8765 8765 5292
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 13 5278 10 3 1
+BitmapFont: 13 5295 10 3 1
 BDFStartProperties: 42
 FONT 1 "-slavfox-Cozette-Medium-R-Normal--13-120-75-75-M-60-ISO10646-1"
 COMMENT 0 "(c) 2020-2025 Slavfox"
@@ -55423,6 +55528,40 @@ BDFChar: 5276 120141 6 1 5 0 7
 kbtGY:f'u-
 BDFChar: 5277 120144 6 1 5 0 7
 kbq<S:f'u-
+BDFChar: 5278 8605 6 0 6 2 4
+%VD.0
+BDFChar: 5279 8604 6 0 6 2 4
+i68J,
+BDFChar: 5280 8810 6 0 5 1 5
+,Y4"f,QIfE
+BDFChar: 5281 8811 6 0 5 1 5
+O@UWfO8o7\
+BDFChar: 5282 8803 6 1 5 0 6
+p]1'hp]1'h
+BDFChar: -1 8920 6 0 0 0 0
+z
+BDFChar: 5283 8828 6 1 5 0 6
+#Va%Ja=ml"
+BDFChar: 5284 8829 6 1 5 0 6
+J7'4%QsbFE
+BDFChar: 5285 8826 6 1 5 1 5
+#Va%J#QOi)
+BDFChar: 5286 8827 6 1 5 1 5
+J7'4%J,fQL
+BDFChar: -1 8830 6 0 0 0 0
+z
+BDFChar: 5287 8760 6 1 5 3 5
++9;0:
+BDFChar: 5288 8844 6 1 5 0 5
+Lo@h^Li<=o
+BDFChar: 5289 8845 6 1 5 0 5
+Lkr!cLi<=o
+BDFChar: 5290 8846 6 1 5 0 5
+LoC*ILi<=o
+BDFChar: 5291 8764 6 0 5 2 3
+A=*>s
+BDFChar: 5292 8765 6 0 5 2 3
+Qt-0s
 BDFRefChar: 1999 1944 0 0 N
 BDFRefChar: 2000 1943 0 0 N
 BDFRefChar: 2001 1941 0 0 N
