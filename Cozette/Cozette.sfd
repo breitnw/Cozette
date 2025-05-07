@@ -114,13 +114,14 @@ MATH:RadicalKernAfterDegree: -1137
 MATH:RadicalDegreeBottomRaisePercent: 60
 MATH:MinConnectorOverlap: 40
 Encoding: UnicodeFull
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL with PUA
 DisplaySize: 13
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 307
-WinInfo: 8640 24 14
+WinInfo: 1680 24 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 524288 262144 174762 0 -1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -44926,7 +44927,7 @@ Flags: HW
 LayerCount: 2
 EndChar
 EndChars
-BitmapFont: 13 5295 10 3 1
+BitmapFont: 13 5294 10 3 1
 BDFStartProperties: 42
 FONT 1 "-slavfox-Cozette-Medium-R-Normal--13-120-75-75-M-60-ISO10646-1"
 COMMENT 0 "(c) 2020-2025 Slavfox"
@@ -55538,8 +55539,6 @@ BDFChar: 5281 8811 6 0 5 1 5
 O@UWfO8o7\
 BDFChar: 5282 8803 6 1 5 0 6
 p]1'hp]1'h
-BDFChar: -1 8920 6 0 0 0 0
-z
 BDFChar: 5283 8828 6 1 5 0 6
 #Va%Ja=ml"
 BDFChar: 5284 8829 6 1 5 0 6
@@ -55548,9 +55547,7 @@ BDFChar: 5285 8826 6 1 5 1 5
 #Va%J#QOi)
 BDFChar: 5286 8827 6 1 5 1 5
 J7'4%J,fQL
-BDFChar: -1 8830 6 0 0 0 0
-z
-BDFChar: 5287 8760 6 1 5 3 5
+BDFChar: 5287 8760 6 1 5 2 4
 +9;0:
 BDFChar: 5288 8844 6 1 5 0 5
 Lo@h^Li<=o
