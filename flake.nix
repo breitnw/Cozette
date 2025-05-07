@@ -11,7 +11,11 @@
         devShells = {
           default = pkgs.mkShellNoCC {
             packages = with pkgs; [
+              # BitsNPicas GUI wrapped with java
               self.packages.${system}.bitsnpicas-bin
+              # FontForge GUI
+              fontforge-gtk
+              # Python tools
               python312Packages.black
               python312Packages.mypy
               python312Packages.isort
@@ -44,12 +48,12 @@
             '';
           };
 
-          # shell script to run the BitsNPicas GUI
+          # Shell script to run the BitsNPicas GUI
           bitsnpicas-bin = pkgs.writeShellScriptBin "bitsnpicas" ''
             ${pkgs.zulu23}/bin/java -jar ${bitsnpicas}/BitsNPicas.jar $@
           '';
 
-          # derivation to build and install cozette
+          # Derivation to build and install cozette
           cozette = pkgs.stdenvNoCC.mkDerivation {
             pname = "cozette";
             version = "1.28.0";
