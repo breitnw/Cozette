@@ -22,7 +22,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -2082812035
-ModificationTime: 1746723672
+ModificationTime: 315532800
 PfmFamily: 49
 TTFWeight: 500
 TTFWidth: 5
@@ -121,11 +121,11 @@ DisplaySize: 13
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 307
-WinInfo: 2176 32 20
+WinInfo: 1600 32 16
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 524288 262144 174762 0 -1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114112 5983
+BeginChars: 1114112 6003
 
 StartChar: uni0000
 Encoding: 0 0 0
@@ -47407,7 +47407,7 @@ EndChar
 StartChar: uni2102
 Encoding: 8450 8450 5648
 Width: 1024
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -47456,7 +47456,7 @@ EndChar
 StartChar: uni210D
 Encoding: 8461 8461 5655
 Width: 1024
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -47498,35 +47498,35 @@ EndChar
 StartChar: uni2115
 Encoding: 8469 8469 5661
 Width: 1024
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
 StartChar: uni2119
 Encoding: 8473 8473 5662
 Width: 1024
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
 StartChar: uni211A
 Encoding: 8474 8474 5663
 Width: 1024
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
 StartChar: uni211D
 Encoding: 8477 8477 5664
 Width: 1024
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
 StartChar: uni2124
 Encoding: 8484 8484 5665
 Width: 1024
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -49748,8 +49748,148 @@ Width: 1024
 Flags: HW
 LayerCount: 2
 EndChar
+
+StartChar: uni2145
+Encoding: 8517 8517 5983
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni27EF
+Encoding: 10223 10223 5984
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni27EE
+Encoding: 10222 10222 5985
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: u1D538
+Encoding: 120120 120120 5986
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: u1D539
+Encoding: 120121 120121 5987
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: u1D53B
+Encoding: 120123 120123 5988
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: u1D53C
+Encoding: 120124 120124 5989
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: u1D540
+Encoding: 120128 120128 5990
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: u1D541
+Encoding: 120129 120129 5991
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: u1D542
+Encoding: 120130 120130 5992
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: u1D543
+Encoding: 120131 120131 5993
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: u1D544
+Encoding: 120132 120132 5994
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: u1D546
+Encoding: 120134 120134 5995
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: u1D54B
+Encoding: 120139 120139 5996
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: u1D54C
+Encoding: 120140 120140 5997
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: u1D54D
+Encoding: 120141 120141 5998
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: u1D550
+Encoding: 120144 120144 5999
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni228C
+Encoding: 8844 8844 6000
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni228D
+Encoding: 8845 8845 6001
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni228E
+Encoding: 8846 8846 6002
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 13 5984 10 3 1
+BitmapFont: 13 6004 10 3 1
 BDFStartProperties: 42
 FONT 1 "-slavfox-Cozette-Medium-R-Normal--13-120-75-75-M-60-ISO10646-1"
 COMMENT 0 "(c) 2020-2025 Slavfox"
@@ -61092,7 +61232,7 @@ BDFChar: 5646 8368 6 1 6 -1 8
 BDFChar: 5647 8369 6 0 5 0 7
 E;W9)E'QZR
 BDFChar: 5648 8450 6 1 5 0 7
-E6,i1^qe$1
+E2]G&TV/6&
 BDFChar: 5649 8452 6 1 5 0 7
 +E4!HTPu#5
 BDFChar: 5650 8455 6 1 5 0 7
@@ -61106,7 +61246,7 @@ BDFChar: 5653 8459 6 0 6 0 7
 BDFChar: 5654 8460 6 0 6 0 7
 Au)4b,U=XI
 BDFChar: 5655 8461 6 1 5 0 7
-f\"jOf\"j/
+kbtGiW2QZY
 BDFChar: 5656 8464 6 1 5 0 7
 G`Y`5+E48E
 BDFChar: 5657 8465 6 1 5 0 7
@@ -61118,15 +61258,15 @@ BDFChar: 5659 8467 6 1 4 0 7
 BDFChar: 5660 8468 6 0 5 0 7
 ;#!jh<)ch!
 BDFChar: 5661 8469 6 1 5 0 7
-aN3T/\@@on
+LrcOIW0iBs
 BDFChar: 5662 8473 6 1 5 0 7
-nCZCGnA)iT
-BDFChar: 5663 8474 6 1 5 -1 7
-E7igqf\"hq2uipY
+n>N:aYb7ZI
+BDFChar: 5663 8474 6 1 5 0 7
+E2]_6W2O[N
 BDFChar: 5664 8477 6 1 5 0 7
-nCZC_nCZCG
+n>N:iW2QZY
 BDFChar: 5665 8484 6 1 5 0 7
-p_Y\=?speF
+po#T;:nXc^
 BDFChar: 5666 8480 6 0 6 5 7
 IU:G&
 BDFChar: 5667 8578 6 -1 7 0 7
@@ -61761,6 +61901,42 @@ BDFChar: 5981 9128 6 1 3 -3 9
 +<VdL+<\HB+<VdL+92BA
 BDFChar: 5982 9132 6 3 5 -3 9
 J:N0#J:M$XJ:N0#J,fQL
+BDFChar: 5983 8517 6 1 5 0 7
+n>N:aW2QZa
+BDFChar: 5984 10223 6 2 4 -1 7
+J3Y5"+<VdlJ,fQL
+BDFChar: 5985 10222 6 2 4 -1 7
++@(I-J:N/8+92BA
+BDFChar: 5986 120120 6 1 5 0 7
+E2]_FW2QZY
+BDFChar: 5987 120121 6 1 5 0 7
+n>N:iW2QZa
+BDFChar: 5988 120123 6 1 5 0 7
+n>N:aW2QZa
+BDFChar: 5989 120124 6 1 5 0 7
+pn4:iTV.tQ
+BDFChar: 5991 120129 6 1 5 0 7
+peXd`:f(!H
+BDFChar: 5992 120130 6 1 5 0 7
+kbtGaW2QZY
+BDFChar: 5993 120131 6 1 5 0 7
+i1Qa9TV.tQ
+BDFChar: 5994 120132 6 1 5 0 7
+:f'ueW7Zo^
+BDFChar: 5995 120134 6 1 5 0 7
+E2]_6W2QY6
+BDFChar: 5997 120140 6 1 5 0 7
+\>Z@)W2QY6
+BDFChar: 5998 120141 6 1 5 0 7
+kbtGY:f'u-
+BDFChar: 5999 120144 6 1 5 0 7
+kbq<S:f'u-
+BDFChar: 6000 8844 6 1 5 0 5
+Lo@h^Li<=o
+BDFChar: 6001 8845 6 1 5 0 5
+Lkr!cLi<=o
+BDFChar: 6002 8846 6 1 5 0 5
+LoC*ILi<=o
 BDFRefChar: 1999 1944 0 0 N
 BDFRefChar: 2000 1943 0 0 N
 BDFRefChar: 2001 1941 0 0 N
