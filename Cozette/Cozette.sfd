@@ -114,18 +114,17 @@ MATH:RadicalKernAfterDegree: -1137
 MATH:RadicalDegreeBottomRaisePercent: 60
 MATH:MinConnectorOverlap: 40
 Encoding: UnicodeFull
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL with PUA
 DisplaySize: 13
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 307
-WinInfo: 1600 32 16
+WinInfo: 129766 23 16
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 524288 262144 174762 0 -1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114112 6003
+BeginChars: 1114112 6006
 
 StartChar: uni0000
 Encoding: 0 0 0
@@ -10243,10 +10242,8 @@ EndChar
 StartChar: uniF04C
 Encoding: 61516 61516 1123
 Width: 945
-Flags: W
+Flags: HW
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
 StartChar: uniF04D
@@ -41667,7 +41664,7 @@ EndChar
 StartChar: u1F551
 Encoding: 128337 128337 4828
 Width: 1890
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -49888,8 +49885,29 @@ Width: 1024
 Flags: HW
 LayerCount: 2
 EndChar
+
+StartChar: u1F500
+Encoding: 128256 128256 6003
+Width: 1890
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: u1F501
+Encoding: 128257 128257 6004
+Width: 1890
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: u1F502
+Encoding: 128258 128258 6005
+Width: 1890
+Flags: HW
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 13 6004 10 3 1
+BitmapFont: 13 6006 10 3 1
 BDFStartProperties: 42
 FONT 1 "-slavfox-Cozette-Medium-R-Normal--13-120-75-75-M-60-ISO10646-1"
 COMMENT 0 "(c) 2020-2025 Slavfox"
@@ -61937,6 +61955,12 @@ BDFChar: 6001 8845 6 1 5 0 5
 Lkr!cLi<=o
 BDFChar: 6002 8846 6 1 5 0 5
 LoC*ILi<=o
+BDFChar: 6003 128256 12 1 11 -2 8
+!.Y'boABbe#_30\#_3K%kMQ?U!.Y%L
+BDFChar: 6004 128257 12 1 11 -2 8
+!.Y'b5N"fBJ:N.m+<Y&Ws+"JW+92BA
+BDFChar: 6005 128258 12 1 11 -1 8
+!.Y'b5N"fBJ:N.mO<Cbm(P!%s
 BDFRefChar: 1999 1944 0 0 N
 BDFRefChar: 2000 1943 0 0 N
 BDFRefChar: 2001 1941 0 0 N
